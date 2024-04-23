@@ -51,7 +51,7 @@ def main():
     Captive = st.selectbox('Captive status', [0, 1])
     Forest = st.text_input('Forest (0.007-0.89)')
     Clay = st.text_input('Clay (Average Percent(5-31)')  # Corrected step to float to match other float values
-    Streams = st.text_input('Streams (Average distance to the nearest water(1125, 41430)')
+    Streams = st.text_input('Streams (Average distance to the nearest water(1125-41430)')
   
     # Code for Prediction
     diagnosis = ''
