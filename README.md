@@ -34,7 +34,7 @@ The application has a simple interface where the user can input the following pa
 After inputting the data, the user can click the 'CWD Test Result' button to receive a prediction.
 
 ## Model Information
-The model used in this application is a Random Forest Classifier, which has been trained and serialized as 'rf_model2.pkl'. Upon starting the app, the model is loaded, and it is used to make predictions based on the user's input.
+The model used in this application is a Random Forest Classifier, which has been trained and serialized as 'lgbm_model4.pkl'. Upon starting the app, the model is loaded, and it is used to make predictions based on the user's input.
 
 ## Visualization
 Upon prediction, an image will be displayed to indicate a positive or negative result:
