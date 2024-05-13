@@ -1,7 +1,7 @@
 # CWD County-based Prediction Web App
 
 ## Overview
-This repository contains the code for a web application designed to predict Chronic Wasting Disease (CWD) status in counties based on environmental, geographical and human factors. The application is built using Streamlit and utilizes a Random Forest model trained on relevant features to perform the prediction.
+This repository contains the code for a web application designed to predict Chronic Wasting Disease (CWD) status in counties based on environmental, geographical and human factors. The application is built using Streamlit and utilizes a light gradient boosting model trained on relevant features to perform the prediction.
 
 ## Features
 - **CWD Prediction**: Predicts whether a county is likely to be CWD positive or negative based on user input.
